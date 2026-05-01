@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Mega Man 64: Recompiled
+Exec=MegaMan64Recompiled
+Type=Application
+Terminal=false
+Icon=512
+Categories=Game;
+StartupWMClass=MegaMan64Recompiled
+Comment=Static recompilation of Mega Man 64 for PC.
+MimeType=x-scheme-handler/megaman64recomp
